@@ -1,4 +1,5 @@
-# Setup Env file
+## Setup Env file
+
 check the .env.example and create your .env.(local | development | production ) 
 use the same API_URL in .env.example
 
